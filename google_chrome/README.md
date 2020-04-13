@@ -1,9 +1,7 @@
-# **install_google_chrome**
-
-This script is for adding Google Chrome repo & installing the Google Chrome latest stable version.
-
+# install_google_chrome.sh
+It will add Google Chrome repo & install the Google Chrome latest stable version
 
 
-# **remove_google_chrome**
 
-This script is for removing any installed Google Chrome package.
+# remove_google_chrome.sh
+It wil remove any installed Google Chrome package
